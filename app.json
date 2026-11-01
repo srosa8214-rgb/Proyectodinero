@@ -9,6 +9,10 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true
+      "android": {
+  "package": "com.srosa8214.midinero",
+  "versionCode": 1
+},
     },
     "web": {
       "bundler": "metro",
